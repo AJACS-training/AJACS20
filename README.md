@@ -52,18 +52,15 @@
 
 * 金沢大学理工学域電子情報学類生命情報コース
 
-<div class="jumpmenu">↑</div>
 
-### [_](http://MotDB.DBCLS.jp/?AJACS20#ubb08d06 "ubb08d06") 内容  
+### 内容  
 
-* <span style="color:white">0</span>9:30 - <span style="color:white">0</span>9:45 [「はじめに：統合データベースプロジェクトとは？」](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS_kanazawa_100706_bando.pdf&refer=AJACS20)
+* <span style="color:white">0</span>9:30 - <span style="color:white">0</span>9:45 [「はじめに：統合データベースプロジェクトとは？」](AJACS20_bando.pdf)
 
-* <span style="color:white">0</span>9:45 - 10:45 [「生命科学横断検索の利用法」](http://MotDB.DBCLS.jp/?AJACS20%2Fshoko "AJACS20/shoko (2886d)")
-* 10:45 - 11:45 [「タンパク質データベースの活用法」](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS20_protein.pdf&refer=AJACS20)
+* <span style="color:white">0</span>9:45 - 10:45 [「生命科学横断検索の利用法」](AJACS20_kawamoto.pdf)
+* 10:45 - 11:45 [「タンパク質データベースの活用法」](AJACS20_hatanaka.pdf)
 
 * 11:45 - 13:00 　昼休憩
 
-* 13:00 - 14:50 「[遺伝子発現データの活用法／次世代シーケンサの活用法](http://MotDB.DBCLS.jp/?AJACS20%2Fsk2 "AJACS20/sk2 (2915d)")」
-* 15:00 - 16:00 [「文献情報を効率的に活用する」](http://MotDB.DBCLS.jp/?AJACS20%2Fthecla "AJACS20/thecla (2922d)")
-
-}}
+* 13:00 - 14:50 「[遺伝子発現データの活用法／次世代シーケンサの活用法](02_kawano.md)」
+* 15:00 - 16:00 [「文献情報を効率的に活用する」](01_nakazato.md)
